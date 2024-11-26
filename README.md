@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm hhuzecardosi! 👋
 
-<!--
-**hhuzecardosi/hhuzecardosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects and technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various personnal projects for experimentation and fun.
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 💬 Ask me about web development, Python, and JavaScript.
+- 😄 Pronouns: He/Him
+
+## Skills
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** React, Node.js, Flask, NestJS, Angular
+- **Tools:** Git, Docker, Kubernetes, VS Code
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## GitHub Stats
+
+![hhuzecardosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhuzecardosi&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhuzecardosi&layout=compact&theme=radical)
